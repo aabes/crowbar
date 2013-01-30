@@ -112,3 +112,4 @@ done
 
 mkdir -p /opt/dell/bin
 ln -s /tftpboot/redhat_dvd/extra/install /opt/dell/bin/install-crowbar
+eject -a on
